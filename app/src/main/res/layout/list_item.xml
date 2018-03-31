@@ -1,0 +1,30 @@
+<!-- Layout for a single place_listlist item -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/list_item_height"
+    android:background="@color/tan_background"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="@dimen/list_item_height"
+        android:layout_height="@dimen/list_item_height"
+        android:scaleType="fitXY" />
+
+    <LinearLayout
+        android:id="@+id/text_container"
+        style="@style/LinearLayoutStyle">
+
+        <TextView
+            android:id="@+id/name_text_view"
+            tools:text="@string/name"
+            style="@style/NameTextViewStyle" />
+
+        <TextView
+            android:id="@+id/description_text_view"
+            tools:text="@string/description"
+            style="@style/DescriptionTextViewStyle" />
+    </LinearLayout>
+
+</RelativeLayout>

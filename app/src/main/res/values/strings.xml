@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">SebesGuide</string>
+    <!-- Category name for VISIT[CHAR LIMIT=20] -->
+    <string name="category_visit">VISIT</string>
+
+    <!-- Category name for SLEEP[CHAR LIMIT=20] -->
+    <string name="category_sleep">SLEEP</string>
+
+    <!-- Category name for EAT[CHAR LIMIT=20] -->
+    <string name="category_eat">EAT</string>
+
+    <!-- Category name for DRINK[CHAR LIMIT=20] -->
+    <string name="category_drink">DRINK</string>
+
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="la_zvonuri">La Zvonuri</string>
+    <string name="pub">Pub</string>
+    <string name="bellagio">Bellagio</string>
+    <string name="bar">Bar</string>
+    <string name="carolina">Carolina</string>
+    <string name="club">Club</string>
+    <string name="fresko">Fresko Kafe</string>
+    <string name="coffee">Coffee Shop</string>
+    <string name="karlhof">Karlhof</string>
+    <string name="german">German food restaurant</string>
+    <string name="dolce">La Dolce Vita</string>
+    <string name="italian">Italian food restaurant</string>
+    <string name="mirage">Mirage</string>
+    <string name="french">French food restaurant</string>
+    <string name="casa">Casa Simy</string>
+    <string name="traditional">Traditional food restaurant</string>
+    <string name="casa_zapolya">Casa Zapolya</string>
+    <string name="historical">Historical monument dated from the 15th-century.</string>
+    <string name="franciscana_monastery">Manastirea Franciscana</string>
+    <string name="monastery">The most well-known monument from Sebes, Alba.</string>
+    <string name="lucian_blaga">Casa memoriala Lucian Blaga</string>
+    <string name="memorial_house">Memorial House of the romanian philosopher and poet.</string>
+    <string name="tower">Cladirea Turn</string>
+    <string name="tower_building">One of the few towers which is preserved and used as a hotel.</string>
+    <string name="gymnasium">Gimnaziul Evanghelic</string>
+    <string name="evangelical">Evangelical Gymnasium,which was built 150 years ago.</string>
+    <string name="clasic_hotel">Clasic Hotel</string>
+    <string name="hotel">3 stars Hotel and restaurant</string>
+    <string name="leul_de_aur">Hotel Leul de Aur</string>
+    <string name="stars_2">2 stars Hotel</string>
+    <string name="stars_4">4 stars Hotel</string>
+    <string name="vila">Vila</string>
+    <string name="stars_3">3 stars Hotel</string>
+    <string name="axa_hotel">Hotel Axa Travel</string>
+    <string name="adrian_vila">Vila Adrian</string>
+    <string name="turn_hotel">Hotel Turn</string>
+    <string name="fan_hotel">Hotel Fan Sebes</string>
+    <string name="snack_bar">Snack Bar</string>
+    <string name="alex_cafe">Alex Cafe</string>
+    <string name="ioana">Ioana</string>
+    <string name="gasthof">Gasthof</string>
+    <string name="pensiunea_ana">Pensiunea Ana</string>
+    <string name="guest_house">Guest House</string>
+
+
+</resources>
