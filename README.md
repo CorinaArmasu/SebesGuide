@@ -58,11 +58,10 @@ The code is properly formatted:
 
 The code also has proper indentation when defining variables and methods.
 
-![screenshot_20181014-222548](https://user-images.githubusercontent.com/34723009/46941645-478ce580-d074-11e8-9e0c-b8dd9f4f5b9c.png)
+![screenshot_20181015-134246](https://user-images.githubusercontent.com/34723009/46946464-7b6e0800-d080-11e8-9675-4514c911ab22.png)
 
-![screenshot_20181014-222552](https://user-images.githubusercontent.com/34723009/46941651-4956a900-d074-11e8-8031-83b957e0ec96.png)
+![screenshot_20181015-134250](https://user-images.githubusercontent.com/34723009/46946468-7dd06200-d080-11e8-9e92-cba18d39e6e7.png)
 
-![screenshot_20181014-222555](https://user-images.githubusercontent.com/34723009/46941656-4b206c80-d074-11e8-926d-205730fc808a.png)
+![screenshot_20181015-134254](https://user-images.githubusercontent.com/34723009/46946474-7f9a2580-d080-11e8-9376-b66c317b1a88.png)
 
-![screenshot_20181014-222559](https://user-images.githubusercontent.com/34723009/46941660-4cea3000-d074-11e8-85f5-276d179c3d4e.png)
-
+![screenshot_20181015-134258](https://user-images.githubusercontent.com/34723009/46946477-81fc7f80-d080-11e8-8c23-2ddcb928b8c1.png)
